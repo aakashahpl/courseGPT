@@ -109,7 +109,7 @@ const SkillForge: React.FC = () => {
         {/* nav bar  */}
         <div className="flex  gap-5 justify-between px-16 py-7 w-full font-medium  bg-zinc-800 max-md:flex-wrap max-md:px-5 max-md:max-w-full">
           <div className=" text-md flex gap-5 justify-between my-auto  text-white max-md:flex-wrap">
-            <div className="grow text-2xl whitespace-nowrap ">Skill Forge</div>
+            <div className="grow text-2xl whitespace-nowrap ">Course GPT</div>
             <div>Theory Module </div>
             <div>Multiple-choice</div>
             <div className="grow whitespace-nowrap">Code writing</div>

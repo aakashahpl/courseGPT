@@ -20,7 +20,7 @@ const CourseModule = ({ children }: children) => {
         <div className=" shadow-lg shadow-black flex gap-5 justify-between px-16 py-7 w-full font-medium  bg-zinc-800 max-md:flex-wrap max-md:px-5 max-md:max-w-full fixed z-20 ">
           <div className=" text-md flex gap-5 justify-between my-auto  text-white max-md:flex-wrap">
             <a href="/">
-              <div className="font-bold text-xl">Skill Forge</div>
+              <div className="font-bold text-xl">Course GPT</div>
             </a>
             <div>Theory Module </div>
             <div>Multiple-choice</div>

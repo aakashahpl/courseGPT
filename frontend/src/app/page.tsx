@@ -33,7 +33,7 @@ const Page = () => {
       <div className="absolute inset-0"></div>
       <div className="absolute inset-0 flex flex-col items-center justify-center">
         <div className="text-white text-center">
-          <h1 className={` text-9xl font-bold mb-4 ${matesc.className}`}>Skill Forge</h1>
+          <h1 className={` text-9xl font-bold mb-4 ${matesc.className}`}>Course GPT</h1>
           <p className="text-md mb-4 text-lg">Curated learning for everyone...</p>
           <Link href='/course' className="mt-10 w-96 bg-red-500 hover:bg-red-700 text-white font-bold py-4 px-10 text-xl rounded">
             Begin
